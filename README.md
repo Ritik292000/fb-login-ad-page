@@ -56,7 +56,7 @@ This project was created as part of a hands-on exercise to improve frontend deve
    ```bash
    git clone https://github.com/Ritik292000/fb-login-ad-page.git
    ```
-2. Open `index.html` and `ad.html` in your browser to view the pages.
+2. Open `a6.html` and `a6_1.html` in your browser to view the pages.
 
 ---
 
