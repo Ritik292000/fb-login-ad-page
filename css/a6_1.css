@@ -1,0 +1,21 @@
+body{
+	background-color:#ccc;
+	font-family:verdana;
+}
+div{
+	border:1px solid white;
+	border-radius:10px;
+	margin:100px auto;
+	background-color:black;
+	color:white;
+	text-align:center;
+	width:500px;
+	height:300px;
+	font-size:30px;
+}
+span{
+	color:#3ee3e3;
+}
+img{
+	height:100px;
+}
